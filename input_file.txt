@@ -1,0 +1,2011 @@
+#Database Status of Study 006
+#Date		Mon Mar 28 04:00:03 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0         24        725       7389       8138
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0         37         37
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0         24        725       7426       8175
+
+#Records awaiting validation: 2
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 007
+#Date		Mon Mar 28 04:00:04 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0       3143       3143
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0         13         13
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0       3156       3156
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 008
+#Date		Mon Mar 28 04:00:06 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0         25        169       5275       5469
+2. Level 2                       0          2         11       2566       2579
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0         27        180       7841       8048
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 009
+#Date		Mon Mar 28 04:00:07 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0         26        150       5654       5830
+2. Level 2                       0          0         89       5283       5372
+3. Level 3                       0          0          0        550        550
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0         26        239      11487      11752
+
+#Records awaiting validation: 1
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 011
+#Date		Mon Mar 28 04:00:09 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0         47      40157      40204
+2. Level 2                       0          0        167      13751      13918
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0         13        601        614
+5. Level 5                       0          0          0          1          1
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0        227      54510      54737
+
+#Records awaiting validation: 100
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 012
+#Date		Mon Mar 28 04:00:10 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          1       2216       2217
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          1       2216       2217
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 013
+#Date		Mon Mar 28 04:00:12 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          1       6747       6748
+2. Level 2                       0          0          1       1297       1298
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          2       8044       8046
+
+#Records awaiting validation: 2
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 014
+#Date		Mon Mar 28 04:00:13 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0       2053       2053
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0         28         28
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0       2081       2081
+
+#Records awaiting validation: 3
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 015
+#Date		Mon Mar 28 04:00:14 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0        196       9183       9379
+2. Level 2                       0          3          4      17315      17322
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          3        200      26498      26701
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 016
+#Date		Mon Mar 28 04:00:16 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0        132         28       3111       3271
+2. Level 2                       0          0         17        882        899
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0         15         15
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0        132         45       4008       4185
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 020
+#Date		Mon Mar 28 04:00:17 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0        512         16      51852      52380
+2. Level 2                       0          1          7      57114      57122
+3. Level 3                       0          0          0       3334       3334
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0        513         23     112300     112836
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 021
+#Date		Mon Mar 28 04:00:18 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       1       1199        850     263635     265685
+2. Level 2                       0          7        113      18591      18711
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          1       1206        963     282226     284396
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 022
+#Date		Mon Mar 28 04:00:19 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0        202        250     110275     110727
+2. Level 2                       0         12         16       2003       2031
+3. Level 3                       0          0          1        269        270
+4. Level 4                       0          0          0         66         66
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0         83          0          0         83
+                  Total          0        297        267     112613     113177
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 023
+#Date		Mon Mar 28 04:00:21 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0         11       7014       7025
+2. Level 2                       0          0          0        281        281
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0         11       7295       7306
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 024
+#Date		Mon Mar 28 04:00:23 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          3          1       8815       8819
+2. Level 2                       0          0          0      20395      20395
+3. Level 3                       0          0          0          1          1
+4. Level 4                       0          0          0       3286       3286
+5. Level 5                       0          0          0      16000      16000
+6. Level 6                       0          0          0         23         23
+7. Level 7                       0          0          0          0          0
+                  Total          0          3          1      48520      48524
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 025
+#Date		Mon Mar 28 04:00:24 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0         17          0      14167      14184
+2. Level 2                       0          0          0        653        653
+3. Level 3                       0          0          0         64         64
+4. Level 4                       0          0          0          4          4
+5. Level 5                       0          0          0         52         52
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0         17          0      14940      14957
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 026
+#Date		Mon Mar 28 04:00:26 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0       1627      37665      39292
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0       1627      37665      39292
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 027
+#Date		Mon Mar 28 04:00:27 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0      24182      24182
+2. Level 2                       0          0          0       2902       2902
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0         65         65
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0      27149      27149
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 028
+#Date		Mon Mar 28 04:00:28 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0         44         44
+2. Level 2                       0          0          0       2123       2123
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0       2167       2167
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 029
+#Date		Mon Mar 28 04:00:30 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0       3397       3397
+2. Level 2                       0          0          0      25271      25271
+3. Level 3                       0          0          0          2          2
+4. Level 4                       0          0          0        621        621
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0      29291      29291
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 030
+#Date		Mon Mar 28 04:00:32 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          4          1          5
+2. Level 2                       0          0          2        148        150
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0         63       1514       1577
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0         69       1663       1732
+
+#Records awaiting validation: 155
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 031
+#Date		Mon Mar 28 04:00:33 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0        751        751
+2. Level 2                       0          0          0       1827       1827
+3. Level 3                       0          0          0       1968       1968
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0       4546       4546
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 032
+#Date		Mon Mar 28 04:00:34 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0        957        957
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0        957        957
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 033
+#Date		Mon Mar 28 04:00:35 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       1          0         61       4624       4686
+2. Level 2                       0          0         10       4379       4389
+3. Level 3                       0          0        146          1        147
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          1          0        217       9004       9222
+
+#Records awaiting validation: 107
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 034
+#Date		Mon Mar 28 04:00:36 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0         46       1754       1800
+2. Level 2                       0          0        126       1418       1544
+3. Level 3                       0          0         78        266        344
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          6          0          6
+                  Total          0          0        256       3438       3694
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 035
+#Date		Mon Mar 28 04:00:37 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       1          0          0          0          1
+1. Level 1                       0          0        106        995       1101
+2. Level 2                       0          0         21        903        924
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          1          0        127       1898       2026
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 036
+#Date		Mon Mar 28 04:00:39 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          1       4572       4573
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          1       4572       4573
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 037
+#Date		Mon Mar 28 04:00:40 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          4          3          7
+2. Level 2                       0          0         79          0         79
+3. Level 3                       0          0          1         44         45
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0         12         12
+7. Level 7                       0          0          0       1908       1908
+                  Total          0          0         84       1967       2051
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 038
+#Date		Mon Mar 28 04:00:41 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          2         64         66
+2. Level 2                       0          0          0       1338       1338
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0        739        739
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          2       2141       2143
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 039
+#Date		Mon Mar 28 04:00:42 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0         99         99
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0         99         99
+
+#Records awaiting validation: 2
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 040
+#Date		Mon Mar 28 04:00:43 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       1          0          0          0          1
+1. Level 1                       1          0         41        144        186
+2. Level 2                       0          0          0          1          1
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          2          0         41        145        188
+
+#Records awaiting validation: 13
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 045
+#Date		Mon Mar 28 04:00:44 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0        830        830
+2. Level 2                       0          0          3        162        165
+3. Level 3                       0          0          0          3          3
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          3        995        998
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 046
+#Date		Mon Mar 28 04:00:46 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0         53       4151       4204
+2. Level 2                       0          0          0          7          7
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0         53       4158       4211
+
+#Records awaiting validation: 1
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 047
+#Date		Mon Mar 28 04:00:47 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0        556        467       1023
+2. Level 2                       0          0          1         34         35
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0        557        501       1058
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 048
+#Date		Mon Mar 28 04:00:48 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+                  Total          0          0          0          0          0
+
+#Records awaiting validation: 3
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 050
+#Date		Mon Mar 28 04:00:50 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0         18         29       1013       1060
+2. Level 2                       0         45          0      25816      25861
+3. Level 3                       0          0          0         38         38
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0         63         29      26867      26959
+
+#Records awaiting validation: 4
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 055
+#Date		Mon Mar 28 04:00:51 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0        172      12294      12466
+2. Level 2                       0          0          3        198        201
+3. Level 3                       0          0          2         12         14
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0        177      12504      12681
+
+#Records awaiting validation: 2
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 061
+#Date		Mon Mar 28 04:00:52 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          1        352        353
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          1        352        353
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 062
+#Date		Mon Mar 28 04:00:54 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0         45         45
+2. Level 2                       0          0          0        426        426
+3. Level 3                       0          0          0          5          5
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0        476        476
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 063
+#Date		Mon Mar 28 04:00:55 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          5        214        219
+2. Level 2                       0          0          0        512        512
+3. Level 3                       0          0         13        131        144
+4. Level 4                       0          0          0         40         40
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0         18        897        915
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 065
+#Date		Mon Mar 28 04:00:56 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                      22          0          0          0         22
+1. Level 1                       3          0         23         33         59
+2. Level 2                       0          0          0        663        663
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total         25          0         23        696        744
+
+#Records awaiting validation: 46
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 070
+#Date		Mon Mar 28 04:00:57 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          1        733        734
+2. Level 2                       0          0          0         82         82
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          1        815        816
+
+#Records awaiting validation: 1
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 071
+#Date		Mon Mar 28 04:00:59 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0          0          0
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0          0          0
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 072
+#Date		Mon Mar 28 04:01:01 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          6          0      32048      32054
+2. Level 2                       0          0          0      52590      52590
+3. Level 3                       0          0          0         26         26
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          6          0      84664      84670
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 073
+#Date		Mon Mar 28 04:01:02 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0        370         90        460
+2. Level 2                       0          0         16          0         16
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0        386         90        476
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 074
+#Date		Mon Mar 28 04:01:03 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          5          0        490        495
+2. Level 2                       0          3          1       3311       3315
+3. Level 3                       0          0          0        112        112
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          8          1       3913       3922
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 075
+#Date		Mon Mar 28 04:01:04 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0        111         60       5004       5175
+2. Level 2                       0        137        226       9651      10014
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0        248        286      14655      15189
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 076
+#Date		Mon Mar 28 04:01:05 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       2          0          0          0          2
+1. Level 1                       0        321        104      11163      11588
+2. Level 2                       0        112         26       9433       9571
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          2        433        130      20596      21161
+
+#Records awaiting validation: 0
+#Records being validated: 36
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+hndawula         iDataFax         196.43.147.214
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 077
+#Date		Mon Mar 28 04:01:06 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0        103          6        238        347
+2. Level 2                       0        153          0       7053       7206
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0        256          6       7291       7553
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 078
+#Date		Mon Mar 28 04:01:09 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       1          0          0          0          1
+1. Level 1                       0        123        978      17981      19082
+2. Level 2                       0         79          0       8792       8871
+3. Level 3                       0          0          0          7          7
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          1        202        978      26780      27961
+
+#Records awaiting validation: 436
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 079
+#Date		Mon Mar 28 04:01:10 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0          0          0
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0          0          0
+
+#Records awaiting validation: 3
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 080
+#Date		Mon Mar 28 04:01:11 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0         79         79
+2. Level 2                       0          1          0       1087       1088
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          1          0       1166       1167
+
+#Records awaiting validation: 2
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 081
+#Date		Mon Mar 28 04:01:13 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0        749        749
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0        749        749
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 082
+#Date		Mon Mar 28 04:01:14 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          1          0          1
+2. Level 2                       0          0         64       2573       2637
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0         65       2573       2638
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 083
+#Date		Mon Mar 28 04:01:15 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       2          0          0          0          2
+1. Level 1                       0          0       3432      49861      53293
+2. Level 2                       0          0        487       7634       8121
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          2          0       3919      57495      61416
+
+#Records awaiting validation: 18
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 084
+#Date		Mon Mar 28 04:01:16 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0          0          0
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0          0          0
+
+#Records awaiting validation: 2027
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 085
+#Date		Mon Mar 28 04:01:18 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0        668      12560      13228
+2. Level 2                       0          0        102       3493       3595
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0        770      16053      16823
+
+#Records awaiting validation: 10
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 086
+#Date		Mon Mar 28 04:01:19 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0         43        127       1425       1595
+2. Level 2                       0          0          0         58         58
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0         43        127       1483       1653
+
+#Records awaiting validation: 19
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 087
+#Date		Mon Mar 28 04:01:21 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0         10       3326       3336
+2. Level 2                       0          0          0        398        398
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0         10       3724       3734
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 088
+#Date		Mon Mar 28 04:01:22 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          4          7        549        560
+2. Level 2                       0          0          0         10         10
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          4          7        559        570
+
+#Records awaiting validation: 1
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 089
+#Date		Mon Mar 28 04:01:23 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+                  Total          0          0          0          0          0
+
+#Records awaiting validation: 6
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 200
+#Date		Mon Mar 28 04:01:24 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       1          0          0          0          1
+1. Level 1                       0          0          2        275        277
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          1          0          2        275        278
+
+#Records awaiting validation: 2
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 201
+#Date		Mon Mar 28 04:01:25 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          4       2932       2936
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          4       2932       2936
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 202
+#Date		Mon Mar 28 04:01:28 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          5         15         20
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          5         15         20
+
+#Records awaiting validation: 2
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 204
+#Date		Mon Mar 28 04:01:29 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0         63          2        162        227
+2. Level 2                       0          0        101      14913      15014
+3. Level 3                       0          0          0       2013       2013
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0         63        103      17088      17254
+
+#Records awaiting validation: 1
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 205
+#Date		Mon Mar 28 04:01:30 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. 1st Pass                      0          0         19        188        207
+2. Data Review                   0          0          0          3          3
+3. Query Review                  0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0         19        191        210
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 206
+#Date		Mon Mar 28 04:01:32 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       8          0          0          0          8
+1. Level 1                       1          0       8888     229201     238090
+2. Level 2                       0          0          4      30665      30669
+3. Level 3                       0          0         18        264        282
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          3          3
+7. Level 7                       0          0          0          0          0
+                  Total          9          0       8910     260133     269052
+
+#Records awaiting validation: 6416
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 207
+#Date		Mon Mar 28 04:01:33 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0          0          0
+2. Level 2                       0          0          0       2400       2400
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0       2400       2400
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 211
+#Date		Mon Mar 28 04:01:35 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0        433          0       7950       8383
+2. Level 2                       0          0          0        525        525
+3. Level 3                       0          0          0        260        260
+4. Level 4                       0          0          0        491        491
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0        433          0       9226       9659
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 213
+#Date		Mon Mar 28 04:01:35 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                     516          0          0          0        516
+1. Level 1                     316          0          0      38606      38922
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total        832          0          0      38606      39438
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+rramachandran    iDataFax         14.139.190.210
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 215
+#Date		Mon Mar 28 04:01:36 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          1         49         50
+2. Level 2                       0          0          1          0          1
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          2         49         51
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 220
+#Date		Mon Mar 28 04:01:38 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0          0      17399      17399
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          0          0          0      17399      17399
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 222
+#Date		Mon Mar 28 04:01:39 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                      42          0          0       2860       2902
+2. Level 2                       0          0          0          0          0
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0         41         41
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total         42          0          0       2901       2943
+
+#Records awaiting validation: 0
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 226
+#Date		Mon Mar 28 04:01:41 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       0          0          0          0          0
+1. Level 1                       0          0        161      35587      35748
+2. Level 2                       0          0          2      41282      41284
+3. Level 3                       0          0          0         23         23
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0         47         47
+                  Total          0          0        163      76939      77102
+
+#Records awaiting validation: 28
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
+#Database Status of Study 240
+#Date		Mon Mar 28 04:01:42 2016
+#Centers		
+#Patient Ids		
+#Visits		
+#Plates		
+Work Flow Level            Pending       Lost Incomplete      Final      Total
+0. Level 0                       1          0          0          0          1
+1. Level 1                       0          0         32        206        238
+2. Level 2                       0          0         11        196        207
+3. Level 3                       0          0          0          0          0
+4. Level 4                       0          0          0          0          0
+5. Level 5                       0          0          0          0          0
+6. Level 6                       0          0          0          0          0
+7. Level 7                       0          0          0          0          0
+                  Total          1          0         43        402        446
+
+#Records awaiting validation: 58
+#Records being validated: 0
+
+#Connected Users
+User             Program          Host
+---------------- ---------------- ------------------------------
+datafax          Status Tool      ai-datafaxprd3.niaid.nih.gov
+
+
+*************************************************************************************************
